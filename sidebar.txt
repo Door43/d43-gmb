@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gmb:home|Door43 (gmb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gmb|d43-gmb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gmb/archive/master.zip|d43-gmb.zip]]
+
+**Recent Changes**
+{{changes>ns = gmb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gmb|Ethnologue data]]
+
